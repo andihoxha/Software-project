@@ -34,6 +34,6 @@ Adobe xd (optional)
 1.https://www.adobe.com/products/xd.html
 2.https://www.imarc.com/blog/5-reasons-to-use-adobe-xd
 
-JS Frameworks
+JS Frameworks (optional)
 1. https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445
 2. https://blog.hellojs.org/javascript-frameworks-why-and-when-to-use-them-43af33d0608d
